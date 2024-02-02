@@ -1,4 +1,4 @@
-# TabMaster Chrome Extension
+# TabMaster Chrome/Edge Extension
 
 ![TabMaster Logo](icon.png)
 
