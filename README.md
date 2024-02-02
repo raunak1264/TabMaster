@@ -1,8 +1,8 @@
-# TabOrganizer Chrome Extension
+# TabMaster Chrome Extension
 
-![TabOrganizer Logo](icon.png)
+![TabMaster Logo](icon.png)
 
-TabOrganizer is a Chrome extension designed to help you efficiently organize and manage your open tabs. It provides a popup window with a list of your open tabs grouped by domain, making it easy to navigate and maintain a clutter-free browsing experience.
+TabMaster is a Chrome extension designed to help you efficiently organize and manage your open tabs. It provides a popup window with a list of your open tabs grouped by domain, making it easy to navigate and maintain a clutter-free browsing experience.
 
 ## Features
 
